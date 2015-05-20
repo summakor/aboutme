@@ -6,7 +6,7 @@
 		<link href='css/main.css' rel='stylesheet'>
 	</head>
 	<body>
-		<h1>Ann Millspaugh(and a tiny bit of Enrique)</h1>
+		<h1>Ann Millspaugh</h1>
 		<nav>
 			<ul>
 				<a href='#'><li class='main-nav'>About Me</li></a>
@@ -24,8 +24,5 @@
 		<footer>
 			<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>.
 		</footer>
-		<script>
-		alert('hi!');
-		</script>
 	</body>
 </html>
